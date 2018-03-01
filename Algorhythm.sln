@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorhythm", "Assembly-CSharp-firstpass.csproj", "{EBAF64B9-7B1A-9916-924A-7D6270CF8904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorhythm", "Assembly-CSharp-Editor.csproj", "{B00BF0DF-2DB1-E78A-8266-2494DE6B4821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBAF64B9-7B1A-9916-924A-7D6270CF8904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAF64B9-7B1A-9916-924A-7D6270CF8904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAF64B9-7B1A-9916-924A-7D6270CF8904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAF64B9-7B1A-9916-924A-7D6270CF8904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00BF0DF-2DB1-E78A-8266-2494DE6B4821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00BF0DF-2DB1-E78A-8266-2494DE6B4821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00BF0DF-2DB1-E78A-8266-2494DE6B4821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00BF0DF-2DB1-E78A-8266-2494DE6B4821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
